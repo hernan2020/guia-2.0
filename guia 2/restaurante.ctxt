@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=restaurante
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=double\ vegeta()
+comment3.params=
+comment3.target=double\ comi_normal()
+comment4.params=
+comment4.target=double\ rapida()
+comment5.params=
+comment5.target=void\ salida()
+numComments=6
